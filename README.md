@@ -8,8 +8,7 @@
 
 ---
 
-Este projeto realiza testes automatizados com **Selenium** e **Pytest**  no formulário de login do site  
-[the-internet.herokuapp.com/login](https://the-internet.herokuapp.com/login).  
+Este projeto realiza testes automatizados com **Selenium** e **Pytest**  no formulário de login do site [the-internet.herokuapp.com/login](https://the-internet.herokuapp.com/login).  
 O foco é validar mensagens de sucesso e erro, além do funcionamento do botão de logout.
 
 ---
